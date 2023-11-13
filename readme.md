@@ -1,0 +1,1 @@
+https://cloudcannon.com/tutorials/hugo-beginner-tutorial/hugo-partials/ 부터 ㄱ
