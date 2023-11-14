@@ -1,7 +1,38 @@
 body {
-  width: 400px;
+  width: 600px;
   margin: 0 auto;
   font-family: sans-serif;
+}
+
+h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  color: #4D5667;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+p, li {
+  color: #4D5667;
+  line-height: 1.6;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse; /* 겹치는 테두리를 하나로 합침 */
+}
+
+th, td {
+  border: 1px solid black; /* 셀 주변에 선 추가 */
+  padding: 8px; /* 셀 안의 여백 */
+  text-align: left; /* 텍스트 정렬 */
+}
+
+thead {
+  background-color: lightgrey;
+  border: 2px solid black; /* thead 내의 선을 두껍게 설정 */
 }
 
 nav ul {
