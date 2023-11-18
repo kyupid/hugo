@@ -1,5 +1,12 @@
 {{ define "main" }}
-<h1>{{ .Params.Title }}</h1>
-<p>{{ .Date.Format "January 2, 2006" }}</p>
-{{ .Content }}
+<div class="content-wrapper">
+    <h1>{{ .Params.Title }}</h1>
+    <div class="date-info">
+    <span>created: {{ .Date.Format "2006-01-02 3:04 PM" }}<br>
+    modified: {{ .Lastmod | time.Format "2006-01-02 3:04 PM" }}
+    </span>
+    </div>
+    <hr> <!-- Horizontal line added here -->
+    {{ .Content }}
+</div>
 {{ end }}

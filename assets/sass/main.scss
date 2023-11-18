@@ -6,7 +6,7 @@ body {
 
 h2, h3, h4, h5, h6 {
   font-weight: bold;
-  color: #4D5667;
+  color: #212529;
 }
 
 img {
@@ -15,8 +15,8 @@ img {
 }
 
 p, li {
-  color: #4D5667;
-  line-height: 1.6;
+  color: #212529;
+  line-height: 1.8;
 }
 
 table {
@@ -63,4 +63,15 @@ footer {
 
 #map {
   height: 300px;
+}
+
+.date-info {
+  text-align: right; /* Aligns the text to the right */
+  margin-bottom: 10px; /* Adds some space below the date info */
+}
+
+.date-info span {
+  display: block; /* Makes the span behave like a block element */
+  padding: 5px; /* Adds padding inside the background */
+  border-radius: 5px; /* Rounds the corners */
 }
