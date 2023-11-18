@@ -25,8 +25,5 @@ jetbrains 깃 클라이언트 쓰는게 젤 편함
 
 ## 설정
 
-front matter의 lastmod값을 자동으로 수정하기 위해서   
-update_lastmod.py 를 수정후에 실행한다.   
-jetbrains IDE 설정 예제 아래 이미지.
-![Screenshot 2023-11-16 at 11.53.02 PM.png](assets%2Fimg%2FScreenshot%202023-11-16%20at%2011.53.02%20PM.png)   
-external tool 설정 후에 단축키 설정하면 더 쉽게 됨.
+front matter중 lastmod를 자동으로 업데이트 하기 위해서 `.git/hooks/pre-commit`파일을 생성한다.   
+`pre-commit`의 내용은 `pre-commit.py`를 참고한다. 
