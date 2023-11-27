@@ -4,6 +4,11 @@ date: 2023-11-24T23:56:29+09:00
 lastmod: "2023-11-25T00:32:42+09:00"
 ---
 
+```
+유니코드: 모든 문자열을 나타내기 위한 통일된 체계
+UTF-8: 이 체계를 가지고 실제로 화면에 나타내기 위한 방법
+```
+
 # Java의 ByteArrayOutputStream 및 HttpServletResponse 이해하기
 
 ## ByteArrayOutputStream의 기본 이해
