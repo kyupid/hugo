@@ -4,5 +4,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "content/posts",
   "attachmentFolderPath": "/",
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "livePreview": true
 }

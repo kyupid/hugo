@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "712b19b4bc4696f4",
+        "id": "607027f1c56ce896",
         "type": "tabs",
         "children": [
           {
-            "id": "e2d42bb0b76e58ba",
+            "id": "c115af2d9326acab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,17 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2d42bb0b76e58ba",
+  "active": "c115af2d9326acab",
   "lastOpenFiles": [
     "content/posts/심볼릭 링크.md",
-    "content/posts/Java의_ByteArrayOutputStream_및_HttpServletResponse_이해하기.md",
     "content/posts/useful-websites.md",
+    "content/posts/automate-updating-lastmod-in-hugo.md",
+    "content/posts/Java의_ByteArrayOutputStream_및_HttpServletResponse_이해하기.md",
+    "content/posts/hugo.md",
+    "content/posts/alias.md",
+    "content/_index.md",
     "obsidian/templates/post.md",
     "assets/img/Screenshot 2023-11-16 at 11.53.02 PM.png",
     "Untitled.md",
     "obsidian",
-    "obsidian/templates",
-    "content/posts/alias.md",
-    "content/posts/automate-updating-lastmod-in-hugo.md"
+    "obsidian/templates"
   ]
 }

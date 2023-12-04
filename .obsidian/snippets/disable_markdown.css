@@ -1,0 +1,12 @@
+/* remove formatting and set font to single size monospace */
+.markdown-source-view:not(.is-live-preview) * {
+	background: unset !important;
+	color: unset !important;
+	font-size: 1rem !important;
+	font-weight: unset !important;
+	font-family: monospace !important;
+	}
+/* in case themes uses ::after div formatting for borders and so on */
+.markdown-source-view:not(.is-live-preview) *::after {
+	border: unset !important;
+	}
