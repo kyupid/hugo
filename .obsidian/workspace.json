@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "607027f1c56ce896",
+        "id": "cf0f731aa00d33c8",
         "type": "tabs",
         "children": [
           {
-            "id": "f769218a02487a3f",
+            "id": "f8786f3302cc623a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/posts/심볼릭 링크.md",
-                "mode": "source",
-                "source": true
+                "file": "static/Pasted image 20231204205011.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/심볼릭 링크.md",
+                "file": "static/Pasted image 20231204205011.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/심볼릭 링크.md",
+                "file": "static/Pasted image 20231204205011.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/심볼릭 링크.md"
+                "file": "static/Pasted image 20231204205011.png"
               }
             }
           }
@@ -146,22 +144,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f769218a02487a3f",
+  "active": "f8786f3302cc623a",
   "lastOpenFiles": [
+    "content/posts/심볼릭 링크.md",
+    "Pasted image 20231204205011.png.md",
+    "content/_index.md",
+    "static/Screenshot 2023-11-16 at 11.53.02 PM.png",
+    "static/Pasted image 20231204205011.png",
+    "content/posts/Untitled.md",
+    "static",
     "content/posts/useful-websites.md",
     "content/posts/Java의_ByteArrayOutputStream_및_HttpServletResponse_이해하기.md",
     "content/posts/automate-updating-lastmod-in-hugo.md",
-    "content/posts/assets%2Fimg%2FPasted image 20231204205011.png.md",
-    "assets/img/Pasted image 20231204205011.png",
-    "content/posts/심볼릭 링크.md",
-    "content/posts/hugo.md",
     "content/posts/alias.md",
     "content/posts/_index.md",
+    "content/posts/hugo.md",
+    "resources/_gen/assets/scss/sass/main.scss_170188855d14d903eca10cc8b6dffa74.json",
+    "resources/_gen/assets/scss/sass/main.scss_170188855d14d903eca10cc8b6dffa74.content",
+    "resources/_gen/assets/scss/sass",
+    "resources/_gen/assets/scss",
+    "resources/_gen/assets",
+    "resources/_gen",
+    "resources",
+    "content/posts/assets%2Fimg%2FPasted image 20231204205011.png.md",
     "obsidian/templates/java_main.md",
-    "content/_index.md",
     "content/posts/2023-12-04.md",
     "obsidian/templates/post.md",
-    "assets/img/Screenshot 2023-11-16 at 11.53.02 PM.png",
     "Untitled.md",
     "obsidian",
     "obsidian/templates"
