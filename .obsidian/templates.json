@@ -1,3 +1,4 @@
 {
-  "folder": "obsidian/templates"
+  "folder": "obsidian/templates",
+  "dateFormat": "YYYY-MM-DDTHH:mm:ssZ"
 }

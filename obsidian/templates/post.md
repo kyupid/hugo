@@ -1,5 +1,6 @@
 ---
 title: 
-date: 
-lastmod:
+summary:
+date: {{date}}
+lastmod: {{date}}
 ---
