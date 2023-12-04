@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cf0f731aa00d33c8",
+        "id": "46227eb19b2923cd",
         "type": "tabs",
         "children": [
           {
-            "id": "f8786f3302cc623a",
+            "id": "c8e0df9af511e383",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "static/Pasted image 20231204205011.png"
+                "file": "content/posts/심볼릭 링크.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "static/Pasted image 20231204205011.png",
+                "file": "content/posts/심볼릭 링크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "static/Pasted image 20231204205011.png",
+                "file": "content/posts/심볼릭 링크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "static/Pasted image 20231204205011.png"
+                "file": "content/posts/심볼릭 링크.md"
               }
             }
           }
@@ -144,13 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8786f3302cc623a",
+  "active": "c8e0df9af511e383",
   "lastOpenFiles": [
+    "readme.md",
     "content/posts/심볼릭 링크.md",
-    "Pasted image 20231204205011.png.md",
     "content/_index.md",
-    "static/Screenshot 2023-11-16 at 11.53.02 PM.png",
-    "static/Pasted image 20231204205011.png",
+    "static/img/myimage.png",
+    "static/img",
+    "static",
+    "static/img/Screenshot 2023-11-16 at 11.53.02 PM.png",
+    "assets/img",
+    "Pasted image 20231204205011.png.md",
     "content/posts/Untitled.md",
     "static",
     "content/posts/useful-websites.md",
@@ -165,13 +171,10 @@
     "resources/_gen/assets/scss",
     "resources/_gen/assets",
     "resources/_gen",
-    "resources",
     "content/posts/assets%2Fimg%2FPasted image 20231204205011.png.md",
     "obsidian/templates/java_main.md",
     "content/posts/2023-12-04.md",
     "obsidian/templates/post.md",
-    "Untitled.md",
-    "obsidian",
-    "obsidian/templates"
+    "Untitled.md"
   ]
 }
