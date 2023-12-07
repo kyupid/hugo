@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46227eb19b2923cd",
+        "id": "0b4bb7ba56d91196",
         "type": "tabs",
         "children": [
           {
-            "id": "c8e0df9af511e383",
+            "id": "b2f0e3524bf445f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/심볼릭 링크.md",
+                "file": "content/posts/Github Copilot 구독 해지.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/심볼릭 링크.md",
+                "file": "content/posts/Github Copilot 구독 해지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/심볼릭 링크.md",
+                "file": "content/posts/Github Copilot 구독 해지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/심볼릭 링크.md"
+                "file": "content/posts/Github Copilot 구독 해지.md"
               }
             }
           }
@@ -146,12 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8e0df9af511e383",
+  "active": "b2f0e3524bf445f8",
   "lastOpenFiles": [
-    "content/posts/DeFi, DAO.md",
-    "content/posts/심볼릭 링크.md",
+    "content/posts/hugo.md",
+    "content/posts/Github Copilot 구독 해지.md",
     "content/posts/Java의_ByteArrayOutputStream_및_HttpServletResponse_이해하기.md",
+    "content/posts/alias.md",
+    "content/posts/_index.md",
+    "content/posts/automate-updating-lastmod-in-hugo.md",
     "content/posts/useful-websites.md",
+    "content/posts/심볼릭 링크.md",
+    "2023-12-08_00-50-01.png",
+    "content/posts/DeFi, DAO.md",
     "readme.md",
     "content/_index.md",
     "static/img/myimage.png",
@@ -162,10 +168,6 @@
     "Pasted image 20231204205011.png.md",
     "content/posts/Untitled.md",
     "static",
-    "content/posts/automate-updating-lastmod-in-hugo.md",
-    "content/posts/alias.md",
-    "content/posts/_index.md",
-    "content/posts/hugo.md",
     "resources/_gen/assets/scss/sass/main.scss_170188855d14d903eca10cc8b6dffa74.json",
     "resources/_gen/assets/scss/sass/main.scss_170188855d14d903eca10cc8b6dffa74.content",
     "resources/_gen/assets/scss/sass",
